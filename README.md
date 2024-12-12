@@ -17,7 +17,7 @@ Before running the application, make sure you have the following:
 
     ```bash
     git clone https://github.com/JordinPinzon/mqtt-project.git
-    cd your_repository
+    cd mqtt-project
     ```
 
 2. Install the required dependencies:
